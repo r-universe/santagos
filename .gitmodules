@@ -11,3 +11,6 @@
 [submodule "mggd"]
 	path = mggd
 	url = https://github.com/cran/mggd
+[submodule "mstudentd"]
+	path = mstudentd
+	url = https://github.com/cran/mstudentd
